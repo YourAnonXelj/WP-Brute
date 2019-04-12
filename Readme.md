@@ -1,13 +1,7 @@
 
 
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-++            [!]      WP-Brute       [!]               ++
-++            [!] Developed By Xelj   [!]               ++
-++            [!] Anonymous Catalunya [!]               ++
-++                                                      ++
-++           [!] Twitter @YourAnonXelj [!]              ++
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+<img src="https://raw.githubusercontent.com/XeljomudoX/WP-Brute.pl/master/lol.png?token=AvRiYHDAxBLkODWuzSAPowUAlBKptOUiks5csOvNwA%3D%3D">
 
 
 
