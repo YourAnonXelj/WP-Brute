@@ -1,4 +1,6 @@
 
+
+
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ++            [!]      WP-Brute       [!]               ++
 ++            [!] Developed By Xelj   [!]               ++
@@ -10,6 +12,20 @@
 
 
 
-Usage:   <site> <user> <wordlist>
+
+
+
+
+
+
+
+
+
+
+
+
+Usage: 
+       
+       <site> <user> <wordlist>
 
        perl site.com admin wordlist.txt
